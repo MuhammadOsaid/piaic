@@ -1,0 +1,10 @@
+[package]
+name = "piaic_iot_assignment7_q3"
+version = "0.1.0"
+authors = ["muhammadosaid"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+piaic_lib_a7_q3 = { path = "piaic_lib_a7_q3" }

@@ -1,0 +1,1 @@
+/home/muhammadosaid/iot/Assignments/7/piaic_iot_assignment7_q3/piaic_lib_a7_q3/target/debug/libpiaic_lib_a7_q3.rlib: /home/muhammadosaid/iot/Assignments/7/piaic_iot_assignment7_q3/piaic_lib_a7_q3/src/lib.rs
